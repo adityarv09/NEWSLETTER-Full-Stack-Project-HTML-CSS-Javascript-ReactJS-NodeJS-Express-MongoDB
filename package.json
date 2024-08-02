@@ -1,0 +1,21 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "description: A task management tool designed for software development teams to track and prioritize tasks efficiently.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test: mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "{"
+  },
+  "keywords": [
+    "m/yourusername/yourrepository.git\""
+  ],
+  "author": "aditya",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
